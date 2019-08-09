@@ -2,4 +2,8 @@
 *.db
 *.sqlite3
 *.zip
+*.vscode
+*.idea
 venv/
+.idea/
+.vscode/
