@@ -1,9 +1,9 @@
 from django.contrib import admin
 from blogging.models import Post, Category
 
-# FIXME: Reference Django ModelAdmin documentation
+# FIXME
 # @admin.register(Category)
-# class CategoryAdmin(admin.ModelAdmin):
+# class Category(admin.Category):
 #     pass
 
 
